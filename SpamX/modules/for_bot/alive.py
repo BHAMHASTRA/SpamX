@@ -1,4 +1,4 @@
-""" © RiZoeLX 2022 - 2023
+""" ©Ditto_00002022 - 2023
    (\_/)
    ( • .•)
    />❤️ 
@@ -47,7 +47,7 @@ async def SpamX_(SpamX: Client, message: Message):
     Mai = await SpamX.get_me()
     chat = message.chat
     info = await message.reply_text("processing......")
-    spamx_reply = "**__SpamX by RiZoeLX;__** \n\n"
+    spamx_reply = "**__BRAMHASTRA;__** \n\n"
     spamx_reply += "<=======================> \n"
 
     try:
@@ -106,8 +106,8 @@ async def SpamX_(SpamX: Client, message: Message):
        spamx_reply += f"**Total Sudos:** `{users_db.sudo_count()}` \n"
        spamx_reply += f"**Total Gbanned users:** `{gban_db.gban_count()}` \n"
     spamx_reply += "<=======================> \n\n"
-    spamx_reply += "**Source Code:** [GitHub 🐈‍⬛](https://github.com/RiZoeLX/SpamX) \n\n"
-    spamx_reply += "**© @RiZoeLX** || Support: @DNHxHELL"
+    spamx_reply += "**Source Code:** [GitHub 🐈‍⬛](https://github.com/PRADHAN474) \n\n"
+    spamx_reply += "**© @Ditto_0000** || Support: @DITTO_KA_YARANA"
     
     try:
        await info.edit_text(spamx_reply, disable_web_page_preview=True)
