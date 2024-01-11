@@ -8,9 +8,17 @@ import platform
 __version__ = __version__
 
 
-ping_msg = PING_MSG if PING_MSG else "SpamX"
-pic = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph//file/08445817174872b47cef8.jpg"
-amsg = ALIVE_MSG if ALIVE_MSG else "SpamX - by RiZoeLX"
+ping_msg = PING_MSG if PING_MSG else "☆ 🇧𝗥𝗔𝗛𝗠𝗔🇸𝗧𝗥𝗔 ☆ 
+
+ ➪ 𝗣ɨɳɠ: 588.001 ᴍs 
+ ➪ 𝗨թƬɨмє: 18h:51m:25s 
+ ➪ ⩔єяនɨ០ɳ: v0.6"
+pic = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/82357702bbf37add6de97.jpg"
+amsg = ALIVE_MSG if ALIVE_MSG else "☆ 🇧𝗥𝗔𝗛𝗠𝗔🇸𝗧𝗥𝗔 ☆ 
+
+ ➪ 𝗣ɨɳɠ: 588.001 ᴍs 
+ ➪ 𝗨թƬɨмє: 18h:51m:25s 
+ ➪ ⩔єяនɨ០ɳ: v0.6"
 
 try:
    sah = RiZoeL.get_users(OWNER_ID)
@@ -25,15 +33,11 @@ class Alive:
 **⁂ {amsg} ⁂**
 
 ━───────╯•╰───────━
-➠ **Master:** {owner_mention}
-➠ **Python Version:** `{platform.python_version()}`
-➠ **SpamX Version:** `{__version__}`
-➠ **Pyrogram Version:** `{pyro_vr}`
-➠ **pyRiZoeLX Version:** `{pip_vr}`
-➠ **Channel:** @RiZoeLX
-━───────╮•╭───────━
-➠ **Source Code:** [•Repo•](https://github.com/RiZoeLX/SpamX)
-     """
+☆ 🇧𝗥𝗔𝗛𝗠𝗔🇸𝗧𝗥𝗔 ☆ 
+
+ ➪ 𝗣ɨɳɠ: 588.001 ᴍs 
+ ➪ 𝗨թƬɨмє: 18h:51m:25s 
+ ➪ ⩔єяនɨ០ɳ: v0.6
 
 handler = HNDLR
 Owner = int(OWNER_ID)
