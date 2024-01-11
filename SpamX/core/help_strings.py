@@ -6,7 +6,7 @@ if not hndlr:
   hndlr = "."
 
 help_text = f"""
-**Help menu of SpamX!**
+**🇧𝗥𝗔𝗛𝗠𝗔🇸𝗧𝗥𝗔!**
 
 Functions/Modules available ⬇️
 
