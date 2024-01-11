@@ -9,10 +9,6 @@ __version__ = __version__
 
 
 ping_msg = PING_MSG if PING_MSG else "BRAMHASTRA" 
-
- ➪ 𝗣ɨɳɠ: 588.001 ᴍs 
- ➪ 𝗨թƬɨмє: 18h:51m:25s 
- ➪ ⩔єяនɨ០ɳ: v0.6"
 pic = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/82357702bbf37add6de97.jpg"
 amsg = ALIVE_MSG if ALIVE_MSG else "☆ 🇧𝗥𝗔𝗛𝗠𝗔🇸𝗧𝗥𝗔 ☆ 
 
