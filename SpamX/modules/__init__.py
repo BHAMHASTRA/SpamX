@@ -8,7 +8,7 @@ import platform
 __version__ = __version__
 
 
-ping_msg = PING_MSG if PING_MSG else "☆ 🇧𝗥𝗔𝗛𝗠𝗔🇸𝗧𝗥𝗔 ☆ 
+ping_msg = PING_MSG if PING_MSG else "BRAMHASTRA" 
 
  ➪ 𝗣ɨɳɠ: 588.001 ᴍs 
  ➪ 𝗨թƬɨмє: 18h:51m:25s 
